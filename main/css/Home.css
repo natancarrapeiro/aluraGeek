@@ -1,0 +1,25 @@
+header{
+    background-color: aqua;
+}
+main{
+    background-color: green;
+
+}
+.lista_de_produtos{
+    display: flex;
+}
+#rodape_home{
+    display: flex;
+    background: blue;
+}
+li{
+    list-style:none;
+}
+
+#discricao_pagina{
+    display: flex;
+}
+#final_pagina_home{
+    text-align: center;
+    background-color: brown;
+}
